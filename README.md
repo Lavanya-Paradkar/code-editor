@@ -1,7 +1,7 @@
 # code-editor
 Code Editor for HTML, CSS, and Javascript using React js.
 
-The code editor is deployed on Github pages: http://lavanya-paradkar.github.io/code-editor
+The code editor is deployed on Github pages: https://lavanya-paradkar.github.io/code-editor/
 
 To run the code locally, perform the following steps:
 
